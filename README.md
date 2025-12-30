@@ -1,4 +1,4 @@
-# inwork_backend# 🚀 ВРаботе API - Бэкенд для фриланс-платформы
+# 🚀 ВРаботе API - Бэкенд для фриланс-платформы
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)
